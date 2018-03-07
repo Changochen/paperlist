@@ -3,7 +3,7 @@ The paper on security I've read since 2018
 
 ## 2018
 ### March
-[Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2](https://papers.mathyvanhoef.com/ccs2017.pdf) [Demon](https://www.youtube.com/watch?v=Oh4WURZoR98)
+[Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2](https://papers.mathyvanhoef.com/ccs2017.pdf): [[Demon](https://www.youtube.com/watch?v=Oh4WURZoR98)]
 ```
 Key reinstallation attack to change the connection parameter.Packet replay,decrypt and forge is possible.
 More specifically,in the 4-way handshake, every time message 3 is received, the session key is reinstalled.
